@@ -75,4 +75,4 @@ technology to the market.
 
 ## Who
 
-Abraham Bonane, Co-Founder and CEO
+Abraham Bonane, Founder and CEO
