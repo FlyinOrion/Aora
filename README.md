@@ -1,8 +1,6 @@
 # Aora
 Next-Gen Peer-to-Peer Decentralized Content Streaming Platform
 
-This is gonna be sick
-
 ## What
 
 Aora is a decentralized peer-to-peer content streaming and sharing platform that
